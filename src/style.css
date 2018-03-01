@@ -1,0 +1,74 @@
+h1 {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 4em;
+color: darkorange;
+font-weight: bold;
+}
+h2 {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 3em;
+color: darkorange;
+font-weight: bold
+}
+p  {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 1em;
+color: black;
+font-weight: bold
+}  
+a {
+font-family: "Lucida Console", monospace;
+font-size: 1.2em;
+color: blue;
+font-weight: bold;
+text-decoration: none;
+}
+ul {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 1.1em;
+color: blueviolet;
+font-weight: bold;
+}
+li {
+list-style-type: disc;
+}
+strong {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 1em;
+color: blueviolet;
+font-weight: bold
+}
+a:hover
+{
+background-color: beige;
+color: darkorange;
+}
+img {
+width: 800px;
+height: auto;
+border-style: none;
+border-width: 5px;
+border-color: darkorange;
+padding: 15px;
+}
+body
+{
+margin: 70px auto;
+}
+video {
+padding: 15px;
+}
+html {
+background-image: url('../images/black.png')  
+}
+body {
+    background-image: url('../images/background1.png');
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
